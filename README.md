@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <a href="https://github.com/carloseduardoviso">
+  <img height="180em" src="https://github-reradme-stats.vercel.app/api?username=carloseduardoviso&show_carloseduardovisoact&langs_count=7&theme=dracula"/>
+</div>
